@@ -1,0 +1,37 @@
+[ {
+    "id": "1",
+    "imagelink":"https://images-na.ssl-images-amazon.com/images/I/81VOFt5t9EL._SL1500_.jpg",
+    "titull":"Vodafone gift card", 
+    "subtitle":"30% ulje",
+    "qr-code": "12345667"
+  },
+  {
+    "id": "2",
+    "imagelink":"https://www.neptun-ks.com/2019/05/10/1_312429be-e42a-4089-9fd2-b63ca6a3917b.jpg",
+    "titull":"Neptun gift card", 
+    "subtitle":"30% ulje",
+    "qr-code":"45687945"
+  },
+  {
+    "id": "3",
+    "imagelink":"https://upload.wikimedia.org/wikipedia/sq/5/5d/TEG_logo.jpeg",
+    "titull":"Teg gift card", 
+    "subtitle":"30% ulje",
+    "qr-code":"98745754"
+  },
+  {
+    "id": "4",
+    "imagelink":"http://www.abcom-al.com/images/brandi/Logo_ABCOM.jpg",
+    "titull":"ABCOM gift card", 
+    "subtitle":"30% ulje",
+    "qr-code":"6579487"
+  },
+  {
+    "id": "5",
+    "imagelink":"https://www.moncheri.al/wp-content/uploads/2016/04/logo1p.png",
+    "titull":"Moncheri gift card", 
+    "subtitle":"30% ulje",
+    "qr-code":"12375967"
+  }
+
+  ]
